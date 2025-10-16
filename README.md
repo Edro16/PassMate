@@ -8,4 +8,6 @@ For regular passwords, you can set the number of characters and choose whether t
 
 For passphrases, you can set the number of words and choose a separator (the character that separates each word).
 
+The program flowchart:
+
 <img width="1070" height="623" alt="PassMate flowchart" src="https://github.com/user-attachments/assets/7e8dde01-dbaf-4fb3-a937-2aba3fca8907" />
