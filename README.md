@@ -10,4 +10,4 @@ For passphrases, you can set the number of words and choose a separator (the cha
 
 The program flowchart:
 
-<img width="1070" height="623" alt="PassMate flowchart" src="https://github.com/user-attachments/assets/7e8dde01-dbaf-4fb3-a937-2aba3fca8907" />
+<img width="1069" height="621" alt="PassMate flowchart" src="https://github.com/user-attachments/assets/7e55d584-345b-439d-ae3a-0814858df497" />
